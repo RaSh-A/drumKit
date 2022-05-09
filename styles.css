@@ -16,31 +16,31 @@ footer {
 }
 
 .w {
-  background-image: url("/Web Dev/FrontEnd/Drum Kit/Drum Kit Starting Files/images/crash.png");
+  background-image: url("images/crash.png");
 }
 
 .a {
-  background-image: url("/Web Dev/FrontEnd/Drum Kit/Drum Kit Starting Files/images/kick.png");
+  background-image: url("images/kick.png");
 }
 
 .s {
-  background-image: url("/Web Dev/FrontEnd/Drum Kit/Drum Kit Starting Files/images/snare.png");
+  background-image: url("images/snare.png");
 }
 
 .d {
-  background-image: url("/Web Dev/FrontEnd/Drum Kit/Drum Kit Starting Files/images/tom1.png");
+  background-image: url("images/tom1.png");
 }
 
 .j {
-  background-image: url("/Web Dev/FrontEnd/Drum Kit/Drum Kit Starting Files/images/tom2.png");
+  background-image: url("images/tom2.png");
 }
 
 .k {
-  background-image: url("/Web Dev/FrontEnd/Drum Kit/Drum Kit Starting Files/images/tom3.png");
+  background-image: url("images/tom3.png");
 }
 
 .l {
-  background-image: url("/Web Dev/FrontEnd/Drum Kit/Drum Kit Starting Files/images/tom4.png");
+  background-image: url("images/tom4.png");
 }
 
 .set {
